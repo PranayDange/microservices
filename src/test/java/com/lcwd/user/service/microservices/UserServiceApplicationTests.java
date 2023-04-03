@@ -1,4 +1,4 @@
-package com.lcwd.user.service.UserService;
+package com.lcwd.user.service.microservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
