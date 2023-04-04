@@ -1,6 +1,6 @@
 package com.lcwd.user.service.microservices.controller;
 
-import com.lcwd.user.service.microservices.entities.User;
+import com.lcwd.user.service.microservices.entites.User;
 import com.lcwd.user.service.microservices.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

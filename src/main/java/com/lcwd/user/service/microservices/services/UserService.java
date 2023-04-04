@@ -1,6 +1,6 @@
 package com.lcwd.user.service.microservices.services;
 
-import com.lcwd.user.service.microservices.entities.User;
+import com.lcwd.user.service.microservices.entites.User;
 
 import java.util.List;
 

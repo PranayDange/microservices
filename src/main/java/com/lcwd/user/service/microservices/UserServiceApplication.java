@@ -1,6 +1,5 @@
 package com.lcwd.user.service.microservices;
 
-import com.lcwd.user.service.microservices.entities.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -15,9 +14,6 @@ public class UserServiceApplication {
     //UserRepository(Interface)
     //UserService(Interface)
     //UserServiceImpl(Class)
-
-
-
 
 
 }

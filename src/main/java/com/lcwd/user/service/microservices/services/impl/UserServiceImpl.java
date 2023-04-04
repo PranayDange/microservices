@@ -1,6 +1,6 @@
 package com.lcwd.user.service.microservices.services.impl;
 
-import com.lcwd.user.service.microservices.entities.User;
+import com.lcwd.user.service.microservices.entites.User;
 import com.lcwd.user.service.microservices.exception.ResourceNotFoundException;
 import com.lcwd.user.service.microservices.repositories.UserRepository;
 import com.lcwd.user.service.microservices.services.UserService;

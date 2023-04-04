@@ -1,4 +1,4 @@
-package com.lcwd.user.service.microservices.entities;
+package com.lcwd.user.service.microservices.entites;
 
 import lombok.*;
 
@@ -26,4 +26,5 @@ public class User {
     //Transient is used so that this class table is not created in database
     @Transient
     private List<Rating> ratings = new ArrayList<>();
+
 }

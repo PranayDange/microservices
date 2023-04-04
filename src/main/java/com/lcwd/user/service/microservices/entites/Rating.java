@@ -1,4 +1,4 @@
-package com.lcwd.user.service.microservices.entities;
+package com.lcwd.user.service.microservices.entites;
 
 import lombok.*;
 
